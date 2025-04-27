@@ -6,7 +6,7 @@ name="test-app"
 [auth]
 # Oauth2 流程中的两个 url
 app_url = "https://www.shoplazza.com"
-redirect_urls = "https://shoplazza.dev/apps/default-app-home/api/auth"
+redirect_url = "https://shoplazza.dev/apps/default-app-home/api/auth"
 # app 所需的 scope,app 安装的时候验证是否一致
 scopes = "write_order,read_order"
 

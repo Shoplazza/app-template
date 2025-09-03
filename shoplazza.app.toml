@@ -1,1 +1,2 @@
-client_id=""
+client_id= ""
+scopes = "read_customer write_cart_transform"

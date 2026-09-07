@@ -1,2 +1,9 @@
-client_id= ""
+client_id = ""
+partner_id = ""
 scopes = "read_customer write_cart_transform"
+
+[dashboard]
+  name = ""
+  app_url = ""
+  redirect_url = ""
+  embed = false
